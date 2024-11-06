@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jazeabby&layout=compact&langs_count=8&card_width=320" />
+  <img width=400 src='https://github-readme-stats.vercel.app/api?username=jazeabby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+</a>
+<br />
+<a href="#">
+  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </a>
